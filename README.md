@@ -1,7 +1,7 @@
-erlang
-======
+docker-erlang-debian
+====================
 
-Docker image for [Erlang](http://www.erlang.org/).
+Docker image for [Erlang/OTP](http://www.erlang.org/).
 
 ### How to use
 
