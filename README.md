@@ -16,3 +16,4 @@ FROM stevedomin/erlang:latest
 ### Available versions
 
 * 17.5
+* 18.0
