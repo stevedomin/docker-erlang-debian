@@ -17,3 +17,5 @@ FROM stevedomin/erlang:latest
 
 * 17.5
 * 18.0
+* 18.1
+* 18.2
