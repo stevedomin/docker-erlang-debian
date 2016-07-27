@@ -19,3 +19,4 @@ FROM stevedomin/erlang:latest
 * 18.0
 * 18.1
 * 18.2
+* 19.0
